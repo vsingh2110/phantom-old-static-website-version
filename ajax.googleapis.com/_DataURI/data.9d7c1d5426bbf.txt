@@ -1,0 +1,1 @@
+chrome-extension://eakacpaijcpapndcfffdgphdiccmpknp/scripts/jquery.highlight.js
